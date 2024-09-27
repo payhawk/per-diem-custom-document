@@ -1,0 +1,7 @@
+node_modules
+config
+.env
+key-egt.json
+key-payhawk.json
+dist/
+README-PAYHAWK.md
